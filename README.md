@@ -72,4 +72,4 @@ You have a dev machine at home (or a cloud server). You want to use Claude Code 
 
 ## License
 
-MIT
+Proprietary. All rights reserved.
