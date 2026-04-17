@@ -1,6 +1,6 @@
 # Vibe Remote — Release Distribution
 
-This repository hosts release binaries for the [Vibe Remote](https://vibecoding.btelo.com) CLI.
+This repository hosts release binaries for the [Btelo Vibe Coding](https://vibecoding.btelo.com) CLI.
 
 **Latest canonical release location (since 2026-04-17):** [btelolabs/btelo-vibe-coding-release](https://github.com/btelolabs/btelo-vibe-coding-release)
 
